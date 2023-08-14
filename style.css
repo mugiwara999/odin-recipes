@@ -1,0 +1,46 @@
+* {
+
+    background-color: whitesmoke;
+}
+
+.title{
+    text-align: center;
+    font-size: 70px;  
+    font-weight: 700;
+    /* font-family:; */
+    margin: 10px 100px 40px 100px;
+    color: indianred;
+
+}   
+
+.dish {
+    font-size: 30px;
+    color: blueviolet;
+    /* background-color: black ; */
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    height: auto;
+
+}
+
+h2 {
+    font-size: 30   ;   
+    font-weight: 700;
+    color: teal;    
+    margin: 10px auto;
+
+}
+
+    div  {
+    text-align: center;
+
+}
+
+.return {
+color: purple;
+}
